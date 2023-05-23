@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mininotes</string>
+    <string name="note_fr_title">// Title</string>
+    <string name="note_fr_body">// Got anything to say?</string>
+    <string name="note_settings_delete_note">Delete note</string>
+    <string name="home_action_about">About</string>
+    <string name="home_action_settings">Settings</string>
+    <string name="share_to">Share to</string>
+    <string name="open_with">Open with</string>
+    <string name="by_izziantiya">By Izziantiya</string>
+    <string name="about_feedback">Leave feedback</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="about_github">Create an Issue</string>
+    <string name="about_twitter">Tweet @ me</string>
+    <string name="about_email">Send a letter</string>
+    <string name="share_export">Share</string>
+    <string name="share_save">Save</string>
+    <string name="note_settings_export">Export</string>
+    <string name="note_date">[%1$s]</string>
+    <string name="info_empty_msg">Looks like\nyou have no notes</string>
+</resources>
